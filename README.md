@@ -1,5 +1,1 @@
-# Aplicando 
-
-## PHP
-
-## Javascript
+# imagemagick-php
